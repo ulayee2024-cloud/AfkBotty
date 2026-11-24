@@ -18,7 +18,7 @@
     "z": 0
   },
   "utils": {
-    "auto-auth": {false
+    "auto-auth": {
       "enabled": true,
       "password": "DarkZyroxback"
     },
